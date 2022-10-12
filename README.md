@@ -1,2 +1,2 @@
 # CompositePublish
-To automate the public of stating code into two similar instances
+to push code to multiple redundant instances
